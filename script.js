@@ -30,7 +30,7 @@ for (let number of numbers) {
     console.log(number);
 }
 
-Conditions:
+//Conditions:
 //#1: Define two variables: actualTemp and a desiredTemp. Write conditionals to tell the heating & cooling system what to do. Log one of these three things: Run A/C, Run heat, or Standby
 
 let actualTemp = 60
