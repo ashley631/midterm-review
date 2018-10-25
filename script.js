@@ -1,7 +1,7 @@
 "use strict";
 
-Loops
-#1: Write for loop from 1-10 then 10-1
+//Loops
+//#1: Write for loop from 1-10 then 10-1
 
 for (let i = 1; i <= 10; i++) {
     console.log(i);
@@ -11,7 +11,7 @@ for (let i = 10; i >= 1; i--) {
     console.log(i);
 }
 
-#2: Write while loop from 1-10 then 10-1
+//#2: Write while loop from 1-10 then 10-1
 let i = 1 
 while (i <= 10) {
     console.log(i);
@@ -31,7 +31,7 @@ for (let number of numbers) {
 }
 
 Conditions:
-#1: Define two variables: actualTemp and a desiredTemp. Write conditionals to tell the heating & cooling system what to do. Log one of these three things: Run A/C, Run heat, or Standby
+//#1: Define two variables: actualTemp and a desiredTemp. Write conditionals to tell the heating & cooling system what to do. Log one of these three things: Run A/C, Run heat, or Standby
 
 let actualTemp = 60
 let desiredTemp = 80
